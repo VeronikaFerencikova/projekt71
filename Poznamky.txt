@@ -1,0 +1,2 @@
+Ukol:
+Nasim ukolem je napsat f-ci, ktera mi, kdyz do ni zadam nejakou: country, mesta v podobě listu a nejaky pocet navstev, tak mi to prida tady na konec slovniku nove hodnoty. Tyto hodnoty budou v kudrnatych zavorkach {}.
